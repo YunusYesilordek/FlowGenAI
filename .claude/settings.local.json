@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir C:\\\\Users\\\\HP\\\\Desktop\\\\FlowGenAI:*)",
+      "WebSearch",
+      "WebFetch(domain:docs.kroki.io)",
+      "WebFetch(domain:d2lang.com)",
+      "WebFetch(domain:blog.logrocket.com)",
+      "WebFetch(domain:www.plantuml.com)",
+      "Bash(python3:*)",
+      "WebFetch(domain:kroki.io)"
+    ]
+  }
+}
