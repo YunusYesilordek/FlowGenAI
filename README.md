@@ -191,5 +191,3 @@ Generates PlantUML and D2 diagram source code from structured analysis data.
 5. Open a Pull Request.
 
 ---
-
-*Built with ❤️ using React, FastAPI, and Anthropic Claude.*
