@@ -8,7 +8,8 @@
       "WebFetch(domain:blog.logrocket.com)",
       "WebFetch(domain:www.plantuml.com)",
       "Bash(python3:*)",
-      "WebFetch(domain:kroki.io)"
+      "WebFetch(domain:kroki.io)",
+      "Bash(npm install *)"
     ]
   }
 }

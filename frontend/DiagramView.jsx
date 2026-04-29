@@ -7,7 +7,7 @@ import { useState } from 'react';
 export default function DiagramView({ data }) {
   const [activeTab, setActiveTab] = useState('plantuml');
   const [copied, setCopied] = useState(false);
-  const [codeVisible, setCodeVisible] = useState(true);
+  const [codeVisible, setCodeVisible] = useState(false);
 
   if (!data) return null;
 
