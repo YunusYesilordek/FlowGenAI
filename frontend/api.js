@@ -5,7 +5,7 @@
  * via the VITE_API_URL environment variable.
  */
 
-const BASE_URL = import.meta.env.VITE_API_URL || '';
+const BASE_URL = 'https://flowgenai.onrender.com';
 
 /**
  * Analyze a business requirement and return structured use case data.
