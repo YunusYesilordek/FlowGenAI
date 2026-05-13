@@ -10,7 +10,13 @@
       "Bash(python3:*)",
       "WebFetch(domain:kroki.io)",
       "Bash(npm install *)",
-      "PowerShell(python -c \"import docx; print\\('python-docx version:', docx.__version__\\)\")"
+      "PowerShell(python -c \"import docx; print\\('python-docx version:', docx.__version__\\)\")",
+      "Bash(python figures/generate_comparison_chart.py)",
+      "Bash(python -c \"import docx; print\\('ok'\\)\")",
+      "Bash(python -c ' *)",
+      "Bash(python generate_paper.py)",
+      "Bash(dir *)",
+      "Bash(python figures/generate_heatmap.py)"
     ]
   }
 }
