@@ -2,6 +2,7 @@
 
 > **AI-powered business requirement analyzer and UML diagram generator.**  
 > Paste a natural-language requirement, get structured use-case data, and auto-generate PlantUML / D2 diagrams in seconds.
+https://flow-gen-ai-theta.vercel.app/
 
 ---
 
